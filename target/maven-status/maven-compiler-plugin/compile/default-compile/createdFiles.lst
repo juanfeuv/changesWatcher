@@ -1,0 +1,5 @@
+com\database\RecordRepository.class
+com\models\PathLocation.class
+com\database\Record.class
+com\service\controllers\DemoApplication.class
+com\service\Service.class
